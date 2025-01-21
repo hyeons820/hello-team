@@ -31,7 +31,7 @@
 
 최근 플레이한 게임: 엘든링, 팰월드
 
-[안녕하세요](https://github.com/user-attachments/assets/5a5627e7-448d-4c00-86fc-9b53470e60e9)
+![안녕하세요](https://github.com/user-attachments/assets/5a5627e7-448d-4c00-86fc-9b53470e60e9)
 
 ## scott13579 자기소개 
 ###  안녕하세요~
