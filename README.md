@@ -30,7 +30,10 @@
 최근 플레이한 게임: 엘든링, 팰월드
 [안녕하세요](https://media1.tenor.com/m/wOlC5m7NikkAAAAd/%EC%A0%9C%EB%A6%AC%EC%9D%B8%EC%82%AC-%EC%A1%B4%EC%A4%91.gif "안녕하세요")
 
-## 권우성
+## scott13579 자기소개 
 ###  안녕하세요~
+* 이름 : 권우성
 * 좋아하는 게임 : TFT, 엘든링
 * 좋아하는 영화 : 아이언맨
+![alt text](<hamster_hello.jpg>)
+---------------------------
