@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# hello-team
+=======
 # hello-team
 ---------------------------
 ## Sihwani 자기소개
@@ -29,3 +32,9 @@
 
 최근 플레이한 게임: 엘든링, 팰월드
 [안녕하세요](https://media1.tenor.com/m/wOlC5m7NikkAAAAd/%EC%A0%9C%EB%A6%AC%EC%9D%B8%EC%82%AC-%EC%A1%B4%EC%A4%91.gif "안녕하세요")
+>>>>>>> b2d63bc64720debde74cbd927d420cf239439cbb
+
+## 권우성
+###  안녕하세요~
+* 좋아하는 게임 : TFT, 엘든링
+* 좋아하는 영화 : 아이언맨
