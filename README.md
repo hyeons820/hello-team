@@ -26,10 +26,12 @@
 ![alt text](<이리 와서 앉아봐라.png>)   
 * * *
 
+## 서창환
 안녕하세요 **서창환** 입니다.
 
 최근 플레이한 게임: 엘든링, 팰월드
-[안녕하세요](https://media1.tenor.com/m/wOlC5m7NikkAAAAd/%EC%A0%9C%EB%A6%AC%EC%9D%B8%EC%82%AC-%EC%A1%B4%EC%A4%91.gif "안녕하세요")
+
+[안녕하세요](제리.gif "안녕하세요")
 
 ## scott13579 자기소개 
 ###  안녕하세요~
