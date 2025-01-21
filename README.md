@@ -1,7 +1,7 @@
 # hello-team
 ---------------------------
-![alt text](<image1.png>)  
 ## Sihwani 자기소개
+![alt text](<image1.png>) 
 * 닉네임: Sihwani
 * 좋아하는 게임: 메가맨, 록맨 시리즈
 * 좋아하는 영화: 반지의 제왕, 해리포터
